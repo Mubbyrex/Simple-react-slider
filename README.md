@@ -1,5 +1,7 @@
-# react-projects-7-slider
+# react-slider
 
-#### IN ACTION
+###Built with -Semantic HTML5 markup -CSS custom properties -React
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+Links
+Solution URL: github.com/Mubbyrex/Birthday-Reminder-list
+Live Site URL: birthday-reminder008.netlify.app
