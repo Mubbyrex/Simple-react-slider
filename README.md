@@ -1,8 +1,9 @@
 # react-slider
 
 ### Built with 
--Semantic HTML5 markup 
--CSS custom properties -React
+
+- Semantic HTML5 markup 
+- CSS custom properties -React
 
 Links
 Solution URL: github.com/Mubbyrex/Simple-react-slider
